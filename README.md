@@ -14,3 +14,4 @@ Paradise Resorts and Restaurant Landing Page
   
 <hr>
 
+## The website is live here : https://mainakrepositor.github.io/Paradise-Properties/
