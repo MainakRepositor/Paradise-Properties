@@ -36,4 +36,5 @@ The project, aims at building a complete integrated business website for resorts
 
 ### Credits
 
+Copyright: All rights reserved. Mainak Software Solutions.
 The entire project was designed, planned and completed by <a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" target="_blank"> Mainak Chaudhuri </a> (that is me) in a duration of 3 months, as an Unversity Project for Software Engineering and Project Management Course.
