@@ -3,6 +3,10 @@ Paradise Resorts and Restaurant Landing Page
 
 <hr>
 
+<strong>Abstract: </strong>
+
+<hr>
+
 ## Techs Used:
 <ol>
   <li>HTML 5 (known as advanced html, following the DOCTYPE DOM file structure. Used to generate the layout of the components of the page).</li>
@@ -18,5 +22,7 @@ Paradise Resorts and Restaurant Landing Page
 <img src="https://user-images.githubusercontent.com/64016811/114133849-53e01980-9924-11eb-8f15-1cf35e5938c5.jpg">
 <img src="https://user-images.githubusercontent.com/64016811/114133858-56db0a00-9924-11eb-833a-fdc1f989d880.jpg">
 <img src="https://user-images.githubusercontent.com/64016811/114133862-580c3700-9924-11eb-8668-6d1710468106.jpg">
+
+<hr>
 
 ## The website is live here : https://mainakrepositor.github.io/Paradise-Properties/
