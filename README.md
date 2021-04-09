@@ -3,7 +3,8 @@ Paradise Resorts and Restaurant Landing Page
 
 <hr>
 
-<strong>Abstract: </strong>
+## Abstract: 
+The project, aims at building a complete integrated business website for resorts and restaurants across India, who come under the Paradise Brand. Using this common website, customers can book their resorts or hotels for stay or even book the restaurants independently. The website is designed with a state-of-the-art User Interface/ User Experience Design, to attract more and more customers to the place. The working backend and easy booking facilites help both sides of the system. The easy booking facilities help the customer book their rooms or tables easily and the integrated backend enables the organization to manage customer checkin, CRM, EMS and Warehouse management under a single umbrella head.
 
 <hr>
 
@@ -26,3 +27,8 @@ Paradise Resorts and Restaurant Landing Page
 <hr>
 
 ## The website is live here : https://mainakrepositor.github.io/Paradise-Properties/
+
+
+### Credits
+
+The entire project was designed, planned and completed by Mainak Chaudhuri (that is me) in a duration of 3 months, as an Unversity Project for Software Engineering and Project Management Course.
