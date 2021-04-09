@@ -15,6 +15,11 @@ The project, aims at building a complete integrated business website for resorts
   <li>JavaScript (ES6), for implementing functionalitites and transition animation.</li>
   <li>JQuery (Used for functionalities of searching and smooth redirection.</li>
   <li>FormSpree API for messaging backend and customer-owner communication, with advanced email notification.</li>
+  <li>PHP (for relaying backend data)</li>
+  <li>MySQL (for data storage and retrieval)</li>
+  <li>Google forms (dynamic input of data and instant analytics with a very large scale data storage)</li>
+  <li>Google sheet retreival using AppScript APIs</li>
+  <li>Admin Functionalities using Nice Admin templates</li>
   </ol>
   
 <hr>
