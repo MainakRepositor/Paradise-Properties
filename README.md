@@ -14,4 +14,9 @@ Paradise Resorts and Restaurant Landing Page
   
 <hr>
 
+### Some screenshots of the working website:
+<img src="https://user-images.githubusercontent.com/64016811/114133849-53e01980-9924-11eb-8f15-1cf35e5938c5.jpg">
+<img src="https://user-images.githubusercontent.com/64016811/114133858-56db0a00-9924-11eb-833a-fdc1f989d880.jpg">
+<img src="https://user-images.githubusercontent.com/64016811/114133862-580c3700-9924-11eb-8668-6d1710468106.jpg">
+
 ## The website is live here : https://mainakrepositor.github.io/Paradise-Properties/
